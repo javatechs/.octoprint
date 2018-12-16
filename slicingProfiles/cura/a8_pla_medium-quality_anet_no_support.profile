@@ -410,4 +410,4 @@ travel_speed: 150
 wall_thickness: 1.05
 wipe_tower: false
 wipe_tower_volume: 15
-bridge_speed = 100 ;JMD - Added based on this profile https://github.com/smorloc/CuraProfiles/blob/master/Cura%20High%20Quality%20PLA%20Profile.ini
+
