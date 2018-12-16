@@ -5,7 +5,7 @@ bottom_thickness: 0.2
 brim_line_count: 10
 cool_head_lift: false
 cool_min_feedrate: 10  ;JMD 2018/12/10 - Unsure about this setting
-cool_min_layer_time: 0  ;JMD 2018/12/10 - Unsure about this setting
+cool_min_layer_time: 1  ;JMD 2018/12/10 - Unsure about this setting
 end_gcode:
 - 'M400
 
